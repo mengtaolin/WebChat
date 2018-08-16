@@ -1,0 +1,9 @@
+{
+  "name": "WebChat",
+  "version": "0.1.0",
+  "description": "Minimalist multiroom chat server",
+  "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
+  }
+}
